@@ -5,5 +5,6 @@ int main()
     printf("***************************\n");
     printf("\tHOLA MUNDO\n");
     printf("***************************\n");
+    std::cout<<" \thola mundo";
     return 0;
 }
